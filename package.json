@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "capmonster": "^0.0.3",
+    "delay": "^5.0.0",
+    "discord.js": "^13.5.1",
+    "edit-json-file": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.6.1",
+    "hcaptcha-solver": "^1.0.2",
+    "mail-listener2-updated": "^0.3.3",
+    "node-capmonster": "^0.1.4",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-devtools": "^2.3.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "random-name": "^0.1.2",
+    "random-username-generator": "^1.0.4",
+    "web-request": "^1.0.7"
+  }
+}

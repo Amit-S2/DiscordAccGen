@@ -1,0 +1,30 @@
+{
+  "name": "mail-listener2-updated",
+  "version": "0.3.3",
+  "description": "Updated Mail listener library for node.js. Get notification when new email arrived.",
+  "dependencies": {
+    "imap": "~0.8.14",
+    "mailparser": "^0.4.8",
+    "async": "^0.9.0",
+    "mime": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dapanas/mail-listener2.git"
+  },
+  "homepage": "https://github.com/dapanas/mail-listener2",
+  "keywords": [
+    "mail",
+    "job",
+    "imap",
+    "mail listener",
+    "email",
+    "email parser"
+  ],
+  "author": {
+    "name": "Daniel Pérez",
+    "email": "dapanas@gmail.com",
+    "url": "http://blogcito.info"
+  },
+  "license": "MIT"
+}
